@@ -8,3 +8,4 @@ streamlit.text('avacado toast')
 
 
 streamlit.title('Build your own smoothie')
+import pandas as pd
